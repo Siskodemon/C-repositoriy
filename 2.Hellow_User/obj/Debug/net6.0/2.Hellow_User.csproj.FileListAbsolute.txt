@@ -1,0 +1,15 @@
+C:\Users\Satanik\Desktop\Учёба\C#\2.Hellow_User\obj\Debug\net6.0\2.Hellow_User.csproj.AssemblyReference.cache
+C:\Users\Satanik\Desktop\Учёба\C#\2.Hellow_User\obj\Debug\net6.0\2.Hellow_User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Satanik\Desktop\Учёба\C#\2.Hellow_User\obj\Debug\net6.0\2.Hellow_User.AssemblyInfoInputs.cache
+C:\Users\Satanik\Desktop\Учёба\C#\2.Hellow_User\obj\Debug\net6.0\2.Hellow_User.AssemblyInfo.cs
+C:\Users\Satanik\Desktop\Учёба\C#\2.Hellow_User\obj\Debug\net6.0\2.Hellow_User.csproj.CoreCompileInputs.cache
+C:\Users\Satanik\Desktop\Учёба\C#\2.Hellow_User\bin\Debug\net6.0\2.Hellow_User.exe
+C:\Users\Satanik\Desktop\Учёба\C#\2.Hellow_User\bin\Debug\net6.0\2.Hellow_User.deps.json
+C:\Users\Satanik\Desktop\Учёба\C#\2.Hellow_User\bin\Debug\net6.0\2.Hellow_User.runtimeconfig.json
+C:\Users\Satanik\Desktop\Учёба\C#\2.Hellow_User\bin\Debug\net6.0\2.Hellow_User.dll
+C:\Users\Satanik\Desktop\Учёба\C#\2.Hellow_User\bin\Debug\net6.0\2.Hellow_User.pdb
+C:\Users\Satanik\Desktop\Учёба\C#\2.Hellow_User\obj\Debug\net6.0\2.Hellow_User.dll
+C:\Users\Satanik\Desktop\Учёба\C#\2.Hellow_User\obj\Debug\net6.0\refint\2.Hellow_User.dll
+C:\Users\Satanik\Desktop\Учёба\C#\2.Hellow_User\obj\Debug\net6.0\2.Hellow_User.pdb
+C:\Users\Satanik\Desktop\Учёба\C#\2.Hellow_User\obj\Debug\net6.0\2.Hellow_User.genruntimeconfig.cache
+C:\Users\Satanik\Desktop\Учёба\C#\2.Hellow_User\obj\Debug\net6.0\ref\2.Hellow_User.dll

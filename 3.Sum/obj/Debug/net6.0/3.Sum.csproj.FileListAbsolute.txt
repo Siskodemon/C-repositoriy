@@ -1,0 +1,15 @@
+C:\Users\Satanik\Desktop\Учёба\C#\3.Sum\bin\Debug\net6.0\3.Sum.exe
+C:\Users\Satanik\Desktop\Учёба\C#\3.Sum\bin\Debug\net6.0\3.Sum.deps.json
+C:\Users\Satanik\Desktop\Учёба\C#\3.Sum\bin\Debug\net6.0\3.Sum.runtimeconfig.json
+C:\Users\Satanik\Desktop\Учёба\C#\3.Sum\bin\Debug\net6.0\3.Sum.dll
+C:\Users\Satanik\Desktop\Учёба\C#\3.Sum\bin\Debug\net6.0\3.Sum.pdb
+C:\Users\Satanik\Desktop\Учёба\C#\3.Sum\obj\Debug\net6.0\3.Sum.csproj.AssemblyReference.cache
+C:\Users\Satanik\Desktop\Учёба\C#\3.Sum\obj\Debug\net6.0\3.Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Satanik\Desktop\Учёба\C#\3.Sum\obj\Debug\net6.0\3.Sum.AssemblyInfoInputs.cache
+C:\Users\Satanik\Desktop\Учёба\C#\3.Sum\obj\Debug\net6.0\3.Sum.AssemblyInfo.cs
+C:\Users\Satanik\Desktop\Учёба\C#\3.Sum\obj\Debug\net6.0\3.Sum.csproj.CoreCompileInputs.cache
+C:\Users\Satanik\Desktop\Учёба\C#\3.Sum\obj\Debug\net6.0\3.Sum.dll
+C:\Users\Satanik\Desktop\Учёба\C#\3.Sum\obj\Debug\net6.0\refint\3.Sum.dll
+C:\Users\Satanik\Desktop\Учёба\C#\3.Sum\obj\Debug\net6.0\3.Sum.pdb
+C:\Users\Satanik\Desktop\Учёба\C#\3.Sum\obj\Debug\net6.0\3.Sum.genruntimeconfig.cache
+C:\Users\Satanik\Desktop\Учёба\C#\3.Sum\obj\Debug\net6.0\ref\3.Sum.dll

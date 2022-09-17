@@ -1,0 +1,15 @@
+C:\Users\Satanik\Desktop\Учёба\C#\Delenie\obj\Debug\net6.0\Delenie.csproj.AssemblyReference.cache
+C:\Users\Satanik\Desktop\Учёба\C#\Delenie\obj\Debug\net6.0\Delenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Satanik\Desktop\Учёба\C#\Delenie\obj\Debug\net6.0\Delenie.AssemblyInfoInputs.cache
+C:\Users\Satanik\Desktop\Учёба\C#\Delenie\obj\Debug\net6.0\Delenie.AssemblyInfo.cs
+C:\Users\Satanik\Desktop\Учёба\C#\Delenie\obj\Debug\net6.0\Delenie.csproj.CoreCompileInputs.cache
+C:\Users\Satanik\Desktop\Учёба\C#\Delenie\bin\Debug\net6.0\Delenie.exe
+C:\Users\Satanik\Desktop\Учёба\C#\Delenie\bin\Debug\net6.0\Delenie.deps.json
+C:\Users\Satanik\Desktop\Учёба\C#\Delenie\bin\Debug\net6.0\Delenie.runtimeconfig.json
+C:\Users\Satanik\Desktop\Учёба\C#\Delenie\bin\Debug\net6.0\Delenie.dll
+C:\Users\Satanik\Desktop\Учёба\C#\Delenie\bin\Debug\net6.0\Delenie.pdb
+C:\Users\Satanik\Desktop\Учёба\C#\Delenie\obj\Debug\net6.0\Delenie.dll
+C:\Users\Satanik\Desktop\Учёба\C#\Delenie\obj\Debug\net6.0\refint\Delenie.dll
+C:\Users\Satanik\Desktop\Учёба\C#\Delenie\obj\Debug\net6.0\Delenie.pdb
+C:\Users\Satanik\Desktop\Учёба\C#\Delenie\obj\Debug\net6.0\Delenie.genruntimeconfig.cache
+C:\Users\Satanik\Desktop\Учёба\C#\Delenie\obj\Debug\net6.0\ref\Delenie.dll
