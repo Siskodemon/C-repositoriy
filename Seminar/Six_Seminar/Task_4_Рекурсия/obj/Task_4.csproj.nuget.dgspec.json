@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Satanik\\Desktop\\Учёба\\C#\\Seminar\\Six_Seminar\\Task_4\\Task_4.csproj": {}
+    "C:\\Users\\Satanik\\Desktop\\Учёба\\C#\\Seminar\\Six_Seminar\\Task_4_Рекурсия\\Task_4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Satanik\\Desktop\\Учёба\\C#\\Seminar\\Six_Seminar\\Task_4\\Task_4.csproj": {
+    "C:\\Users\\Satanik\\Desktop\\Учёба\\C#\\Seminar\\Six_Seminar\\Task_4_Рекурсия\\Task_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Satanik\\Desktop\\Учёба\\C#\\Seminar\\Six_Seminar\\Task_4\\Task_4.csproj",
+        "projectUniqueName": "C:\\Users\\Satanik\\Desktop\\Учёба\\C#\\Seminar\\Six_Seminar\\Task_4_Рекурсия\\Task_4.csproj",
         "projectName": "Task_4",
-        "projectPath": "C:\\Users\\Satanik\\Desktop\\Учёба\\C#\\Seminar\\Six_Seminar\\Task_4\\Task_4.csproj",
+        "projectPath": "C:\\Users\\Satanik\\Desktop\\Учёба\\C#\\Seminar\\Six_Seminar\\Task_4_Рекурсия\\Task_4.csproj",
         "packagesPath": "C:\\Users\\Satanik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Satanik\\Desktop\\Учёба\\C#\\Seminar\\Six_Seminar\\Task_4\\obj\\",
+        "outputPath": "C:\\Users\\Satanik\\Desktop\\Учёба\\C#\\Seminar\\Six_Seminar\\Task_4_Рекурсия\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Satanik\\AppData\\Roaming\\NuGet\\NuGet.Config"
